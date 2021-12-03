@@ -35,7 +35,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      initialRoute: home_page.id,
+      initialRoute: register_page.id,
       routes: {
         register_page.id: (context) => register_page(),
         login_page.id: (context) => login_page(),
