@@ -19,11 +19,11 @@
 - Otto v1.0
 - Only working on Android devices
 - RegisterPage
-![Screenshot_1638507785](https://user-images.githubusercontent.com/44278625/144548335-e86b5921-0d7c-456f-9b7b-5ef06f2f0aad.png)
+![Screenshot_1638507785](https://user-images.githubusercontent.com/44278625/144548335-e86b5921-0d7c-456f-9b7b-5ef06f2f0aad.png){:height="700px" width="400px"}
 - LoginPage
-![Screenshot_1638507802](https://user-images.githubusercontent.com/44278625/144548343-8e779b19-b728-4aba-9b45-c94742341886.png)
+![Screenshot_1638507802](https://user-images.githubusercontent.com/44278625/144548343-8e779b19-b728-4aba-9b45-c94742341886.png){:height="700px" width="400px"}
 - SearchPage
-![Screenshot_1638507815](https://user-images.githubusercontent.com/44278625/144548386-cb89375c-3700-468e-948d-baeb25cf6c08.png)
+![Screenshot_1638507815](https://user-images.githubusercontent.com/44278625/144548386-cb89375c-3700-468e-948d-baeb25cf6c08.png){:height="700px" width="400px"}
 
 # Current Features
 - User Authentication
