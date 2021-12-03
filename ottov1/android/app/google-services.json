@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "611857617298",
+    "firebase_url": "https://ottov1-default-rtdb.firebaseio.com",
+    "project_id": "ottov1",
+    "storage_bucket": "ottov1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611857617298:android:ca8df1effabdf26cd4314b",
+        "android_client_info": {
+          "package_name": "com.example.ottov1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611857617298-qtiadbm4gg1p4h8tg9vm17s6bfarom90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpFO2ztyC2Dve8a6pVpcHKvt-7ClLRB6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611857617298-qtiadbm4gg1p4h8tg9vm17s6bfarom90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>611857617298-uvq8ipcdln4mlntpu8a69ppv3nh6ros6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.611857617298-uvq8ipcdln4mlntpu8a69ppv3nh6ros6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDGT386epR-sC8-PGxMDFLeM2KOOoBB-Ww</string>
+	<key>GCM_SENDER_ID</key>
+	<string>611857617298</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.ottov1</string>
+	<key>PROJECT_ID</key>
+	<string>ottov1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ottov1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:611857617298:ios:6cec1a28112acb93d4314b</string>
+	<key>DATABASE_URL</key>
+	<string>https://ottov1-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
