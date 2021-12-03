@@ -18,11 +18,11 @@
 # Release Version
 - Otto v1.0
 - Only working on Android devices
-- RegisterPage
+RegisterPage
 <img src="https://user-images.githubusercontent.com/44278625/144548335-e86b5921-0d7c-456f-9b7b-5ef06f2f0aad.png" width="200" height="500"/>
-- LoginPage
+LoginPage
 <img src="https://user-images.githubusercontent.com/44278625/144548343-8e779b19-b728-4aba-9b45-c94742341886.png" width="200" height="500"/>
-- SearchPage
+SearchPage
 <img src="https://user-images.githubusercontent.com/44278625/144548386-cb89375c-3700-468e-948d-baeb25cf6c08.png" width="200" height="500"/>
 
 # Current Features
@@ -30,17 +30,18 @@
 - Fetch Current User Location
 
 # How to Run
-- Install Android Studio
-- Install Flutter SDK
-- Install Android SDK
-- Open csci498proj1 folder in Android Studio
-- Open ottov1 folder
-- Select Android device to deploy app on
-- Clone repo
-- Run command "export PATH="/Applications/flutter/bin:$PATH"
-- Run command "flutter run --no-sound-null-safety"
+1. Clone repo
+2. Install Android Studio
+3. Install Flutter and place folder in Applications
+4. Install Android SDK
+5. Open csci498proj1 folder in Android Studio
+6. Select Android device to deploy app on
+7. Open Terminal window in Android Studio
+8. Run command "cd ottov1"
+9. Run command "export PATH="/Applications/flutter/bin:$PATH"
+10. Run command "flutter run --no-sound-null-safety"
 
-#Test account
+# Test account
 - User: rmanalo@stetson.edu
 - Pass: 123456789
 
